@@ -6,5 +6,5 @@
 
 The [personal homepage](https://efir.uz) is built using:
 
-- [Zola](https://www.getzola.org)
-- [Bulma](https://bulma.io)
+- [Zola v0.22.1](https://www.getzola.org)
+- [Bulma v1.0.4](https://bulma.io)
